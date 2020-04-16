@@ -77,19 +77,19 @@
 			}
 		},
 		{
-			"name" : "Structure - Timber Joist/Rafter Layer",
-			"pbrMetallicRoughness" : {
-				"baseColorFactor" : [ 0.4980392156862745, 0.4980392156862745, 0.4980392156862745, 1 ],
-				"roughnessFactor" : 0.7490196078431373,
-				"metallicFactor" : 0.5019607843137255
-			}
-		},
-		{
 			"name" : "Concrete - Cast In Situ",
 			"pbrMetallicRoughness" : {
 				"baseColorFactor" : [ 0.7529411764705882, 0.7529411764705882, 0.7529411764705882, 1 ],
 				"roughnessFactor" : 0.4980392156862745,
 				"metallicFactor" : 0.24705882352941178
+			}
+		},
+		{
+			"name" : "Structure - Timber Joist/Rafter Layer",
+			"pbrMetallicRoughness" : {
+				"baseColorFactor" : [ 0.4980392156862745, 0.4980392156862745, 0.4980392156862745, 1 ],
+				"roughnessFactor" : 0.7490196078431373,
+				"metallicFactor" : 0.5019607843137255
 			}
 		},
 		{
@@ -3657,7 +3657,7 @@
 						"POSITION" : 590
 					},
 					"indices" : 591,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3669,7 +3669,7 @@
 						"POSITION" : 592
 					},
 					"indices" : 593,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3681,7 +3681,7 @@
 						"POSITION" : 594
 					},
 					"indices" : 595,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3693,7 +3693,7 @@
 						"POSITION" : 596
 					},
 					"indices" : 597,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3705,7 +3705,7 @@
 						"POSITION" : 598
 					},
 					"indices" : 599,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3729,7 +3729,7 @@
 						"POSITION" : 602
 					},
 					"indices" : 603,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3741,7 +3741,7 @@
 						"POSITION" : 604
 					},
 					"indices" : 605,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3753,7 +3753,7 @@
 						"POSITION" : 606
 					},
 					"indices" : 607,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3765,7 +3765,7 @@
 						"POSITION" : 608
 					},
 					"indices" : 609,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3777,7 +3777,7 @@
 						"POSITION" : 610
 					},
 					"indices" : 611,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -3789,7 +3789,7 @@
 						"POSITION" : 612
 					},
 					"indices" : 613,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4149,7 +4149,7 @@
 						"POSITION" : 672
 					},
 					"indices" : 673,
-					"material" : 9,
+					"material" : 10,
 					"mode" : 4
 				}
 			]
@@ -4173,7 +4173,7 @@
 						"POSITION" : 676
 					},
 					"indices" : 677,
-					"material" : 9,
+					"material" : 10,
 					"mode" : 4
 				}
 			]
@@ -4185,7 +4185,7 @@
 						"POSITION" : 678
 					},
 					"indices" : 679,
-					"material" : 9,
+					"material" : 10,
 					"mode" : 4
 				}
 			]
@@ -4197,7 +4197,7 @@
 						"POSITION" : 680
 					},
 					"indices" : 681,
-					"material" : 9,
+					"material" : 10,
 					"mode" : 4
 				}
 			]
@@ -4209,7 +4209,7 @@
 						"POSITION" : 682
 					},
 					"indices" : 683,
-					"material" : 9,
+					"material" : 10,
 					"mode" : 4
 				}
 			]
@@ -4221,7 +4221,7 @@
 						"POSITION" : 684
 					},
 					"indices" : 685,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4233,7 +4233,7 @@
 						"POSITION" : 686
 					},
 					"indices" : 687,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4245,7 +4245,7 @@
 						"POSITION" : 688
 					},
 					"indices" : 689,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4257,7 +4257,7 @@
 						"POSITION" : 690
 					},
 					"indices" : 691,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4269,7 +4269,7 @@
 						"POSITION" : 692
 					},
 					"indices" : 693,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4281,7 +4281,7 @@
 						"POSITION" : 694
 					},
 					"indices" : 695,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4293,7 +4293,7 @@
 						"POSITION" : 696
 					},
 					"indices" : 697,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4305,7 +4305,7 @@
 						"POSITION" : 698
 					},
 					"indices" : 699,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4317,7 +4317,7 @@
 						"POSITION" : 700
 					},
 					"indices" : 701,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4329,7 +4329,7 @@
 						"POSITION" : 702
 					},
 					"indices" : 703,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4341,7 +4341,7 @@
 						"POSITION" : 704
 					},
 					"indices" : 705,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4353,7 +4353,7 @@
 						"POSITION" : 706
 					},
 					"indices" : 707,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4365,7 +4365,7 @@
 						"POSITION" : 708
 					},
 					"indices" : 709,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4377,7 +4377,7 @@
 						"POSITION" : 710
 					},
 					"indices" : 711,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4389,7 +4389,7 @@
 						"POSITION" : 712
 					},
 					"indices" : 713,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4401,7 +4401,7 @@
 						"POSITION" : 714
 					},
 					"indices" : 715,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4413,7 +4413,7 @@
 						"POSITION" : 716
 					},
 					"indices" : 717,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4425,7 +4425,7 @@
 						"POSITION" : 718
 					},
 					"indices" : 719,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4437,7 +4437,7 @@
 						"POSITION" : 720
 					},
 					"indices" : 721,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4449,7 +4449,7 @@
 						"POSITION" : 722
 					},
 					"indices" : 723,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4461,7 +4461,7 @@
 						"POSITION" : 724
 					},
 					"indices" : 725,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4473,7 +4473,7 @@
 						"POSITION" : 726
 					},
 					"indices" : 727,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4485,7 +4485,7 @@
 						"POSITION" : 728
 					},
 					"indices" : 729,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4497,7 +4497,7 @@
 						"POSITION" : 730
 					},
 					"indices" : 731,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4521,7 +4521,7 @@
 						"POSITION" : 734
 					},
 					"indices" : 735,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4533,7 +4533,7 @@
 						"POSITION" : 736
 					},
 					"indices" : 737,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4545,7 +4545,7 @@
 						"POSITION" : 738
 					},
 					"indices" : 739,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4557,7 +4557,7 @@
 						"POSITION" : 740
 					},
 					"indices" : 741,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4569,7 +4569,7 @@
 						"POSITION" : 742
 					},
 					"indices" : 743,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4593,7 +4593,7 @@
 						"POSITION" : 746
 					},
 					"indices" : 747,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4605,7 +4605,7 @@
 						"POSITION" : 748
 					},
 					"indices" : 749,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4617,7 +4617,7 @@
 						"POSITION" : 750
 					},
 					"indices" : 751,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4629,7 +4629,7 @@
 						"POSITION" : 752
 					},
 					"indices" : 753,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4641,7 +4641,7 @@
 						"POSITION" : 754
 					},
 					"indices" : 755,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4653,7 +4653,7 @@
 						"POSITION" : 756
 					},
 					"indices" : 757,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4665,7 +4665,7 @@
 						"POSITION" : 758
 					},
 					"indices" : 759,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4677,7 +4677,7 @@
 						"POSITION" : 760
 					},
 					"indices" : 761,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4689,7 +4689,7 @@
 						"POSITION" : 762
 					},
 					"indices" : 763,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4701,7 +4701,7 @@
 						"POSITION" : 764
 					},
 					"indices" : 765,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4713,7 +4713,7 @@
 						"POSITION" : 766
 					},
 					"indices" : 767,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
@@ -4725,7 +4725,7 @@
 						"POSITION" : 768
 					},
 					"indices" : 769,
-					"material" : 10,
+					"material" : 9,
 					"mode" : 4
 				}
 			]
