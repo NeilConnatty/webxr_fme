@@ -754,7 +754,7 @@
     "buffers" : [
         {
             "byteLength" : 416392, 
-            "uri" : "camp.bin"
+            "uri" : "model.bin"
         }
     ], 
     "cameras" : [
